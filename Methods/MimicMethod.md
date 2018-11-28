@@ -44,3 +44,6 @@ https://www.fluentin3months.com/tedx/
 
 Tools to track your progress
 https://www.mimicmethod.com/5-great-accountability-tools-language-learning/#more-2358
+
+Intonation Training
+https://www.mimicmethod.com/train-intonation-learn-language-faster/#more-2081
