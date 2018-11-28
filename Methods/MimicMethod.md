@@ -41,3 +41,6 @@ https://www.fluentin3months.com/sound-rehab-2/
 
 Talk from day 1
 https://www.fluentin3months.com/tedx/
+
+Tools to track your progress
+https://www.mimicmethod.com/5-great-accountability-tools-language-learning/#more-2358
