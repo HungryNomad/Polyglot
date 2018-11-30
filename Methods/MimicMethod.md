@@ -47,3 +47,6 @@ https://www.mimicmethod.com/5-great-accountability-tools-language-learning/#more
 
 Intonation Training
 https://www.mimicmethod.com/train-intonation-learn-language-faster/#more-2081
+
+IPA
+http://www.nativlang.com/linguistics/ipa-pronunciation-lessons.php
