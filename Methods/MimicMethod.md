@@ -32,6 +32,9 @@ https://www.mimicmethod.com/how-to-tune-your-foreign-language-vowel-pronunciatio
 Writing corrections
 http://lang-8.com/
 
+Audio Tools
+https://www.fluentu.com/blog/best-audio-language-learning/
+
 
 IPA Work! 
 https://www.fluentin3months.com/ipa-alphabet/
