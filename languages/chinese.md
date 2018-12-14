@@ -1,0 +1,1 @@
+- https://www.hackingchinese.com/memory-aids-and-mnemonics-to-enhance-learning/
