@@ -22,8 +22,7 @@ Snippets of useful tools and methods along the way to becoming a polyglot
 
 ## Learn IPA
 
-
--IPA Lessons http://www.nativlang.com/linguistics/ipa-pronunciation-lessons.php
+- IPA Lessons http://www.nativlang.com/linguistics/ipa-pronunciation-lessons.php
 - Translate to IPA https://easypronunciation.com/en/japanese-kanji-to-romaji-converter#phonetic_transcription
 - IPA Alphabet https://www.fluentin3months.com/ipa-alphabet/
 - German Sounds https://en.wikipedia.org/wiki/Help:IPA/Standard_German
