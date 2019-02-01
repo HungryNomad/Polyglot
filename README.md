@@ -30,6 +30,7 @@ For me pronunciation and listening are definitely top priority. Neutralize your 
 - Translate to IPA https://easypronunciation.com/en/japanese-kanji-to-romaji-converter#phonetic_transcription
 - IPA Alphabet https://www.fluentin3months.com/ipa-alphabet/
 - German Sounds https://en.wikipedia.org/wiki/Help:IPA/Standard_German
+- Listening https://www.fluentu.com/blog/spanish/best-ways-learn-spanish-in-the-car/
 
 ### Conversations with native speakers
 Actually speaking to people is next on the list. Mimic Method covers this as step 2 as well. Benny Lewis reccomends to start here.
@@ -47,7 +48,6 @@ Concurrent training with the above listening and speaking. Speaking without suff
 
 - Anki Audio decks! 
 - Most Audio resources are here https://www.fluentu.com/blog/best-audio-language-courses/
-
 - http://www.openculture.com/2016/06/free-learn-foreign-languages-in-your-car.html
 - Audio Resources http://www.openculture.com/freelanguagelessons
 
@@ -60,6 +60,7 @@ Last resort for beginners, but OK to learn after you've gotten far enough in ver
 
 ## Basic Info
 
+- Daily practice https://www.fluentu.com/blog/daily-language-practice/
 - Audio Tools https://www.fluentu.com/blog/best-audio-language-learning/
 - Tools to track your progress https://www.mimicmethod.com/5-great-accountability-tools-language-learning/#more-2358
 - Intonation Training https://www.mimicmethod.com/train-intonation-learn-language-faster/#more-2081
