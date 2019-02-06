@@ -1,6 +1,8 @@
 # Polyglot
 Snippets of useful tools and methods along the way to becoming a polyglot
 
+Blog https://languagesincontext.com/learn-while-you-speak/#more-5055
+
 ## Method list
 Thanks to Lýdia Machová https://www.youtube.com/watch?v=o_XVt5rdpFY
 
